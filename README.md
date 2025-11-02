@@ -1,1 +1,1 @@
-Resort Mini Project
+Resort And Adventure Booking System Mini Project
