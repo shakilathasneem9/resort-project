@@ -1,1 +1,1 @@
-hi
+Resort Mini Project
