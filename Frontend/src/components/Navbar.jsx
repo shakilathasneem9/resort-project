@@ -14,6 +14,9 @@ export default function Navbar() {
         <Link to="/rooms" className="hover:text-blue-400">
           Rooms
         </Link>
+        <Link to="/activities" className="hover:text-blue-400">
+          Activities
+        </Link>
         <Link to="/booking" className="hover:text-blue-400">
           Booking
         </Link>
